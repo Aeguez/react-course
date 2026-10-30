@@ -1,1 +1,1 @@
-# Start of React.js 
+# Start of React.js course
